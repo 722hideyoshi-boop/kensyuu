@@ -10,7 +10,7 @@ public class Main0_0_6 {
 		double height = 173.5;
 		String name = "ひでよし";
 		boolean ispassed = true;
-		
+
 		System.out.println(x * x * 3.14);
 		System.out.println(height);
 		System.out.println(name);
