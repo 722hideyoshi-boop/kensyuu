@@ -11,7 +11,7 @@ public class Main0_0_6 {
 		String name = "ひでよし";
 		boolean ispassed = true;
 
-		System.out.println(x * x * 3.14);
+		System.out.println(x += 2 + 2);
 		System.out.println(height);
 		System.out.println(name);
 		System.out.println(ispassed);
