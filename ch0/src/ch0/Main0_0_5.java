@@ -5,7 +5,7 @@ public class Main0_0_5 {
 	public static void main(String[] args) {
 		// 計算をする
 
-		int a = 100;
+		int a = 10000;
 		System.out.println(a);
 	}
 
